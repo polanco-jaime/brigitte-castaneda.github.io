@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Brigitte Castaneda | Blog
+title: Brigitte Castañeda | Blog
 pagination:
   enabled: true
 ---
