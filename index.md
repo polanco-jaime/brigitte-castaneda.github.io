@@ -1,6 +1,5 @@
 ---
 layout: home
-home_text: Ph.D. candidate in economics at [Universidad de los Andes] 
-[ref="https://economia.uniandes.edu.co/"]
+home_text: Ph.D. candidate in economics at Universidad de los Andes
 title: Brigitte Castaneda
 ---
