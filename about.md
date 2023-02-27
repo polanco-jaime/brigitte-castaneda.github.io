@@ -11,7 +11,8 @@ I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Col
 
 I will be on the Job Market for Economists in 2023/2024.
 
-You can see my CV [here](https://brigitte-castaneda.github.io/brigitte.github.io/Resume.pdf).
+You can read my CV [here](https://brigitte-castaneda.github.io/brigitte.github.io/Resume.pdf).
 
 **Research interests:** Climate policies, energy transition and environmental economics.
-
+ 
+I have a blog for fun, and [here](https://bribigfish.wordpress.com/category/viajes/) you can find topics about travel, culture and history.
