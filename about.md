@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![Brigitte Castaneda](/Brigitte.jpeg){: width="250" , border-radius = 10}
+![Brigitte Castaneda](/Brigitte.jpg){: width="250" , border-radius = 10}
 
 I am a Ph.D. candidate in Economics at the Universidad de los Andes (Bogota, Colombia). My advisor is Hernando Zuleta. Currently, My primary research fields are Macroeconomics and Environmental economics. In particular I evaluate the macroeconomic impacts of climate policies such as, Carbon Tax, ETS, REDD+. and the drivers of CO2 emissions and economic growth. 
 
